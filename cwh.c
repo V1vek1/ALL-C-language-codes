@@ -76,7 +76,7 @@
 // }
 
 
-//**********************using Foor looop print n numbers of natural number*********************
+//**********************using Foor loop print n numbers of natural number*********************
 
 // #include<stdio.h>
 // int main()

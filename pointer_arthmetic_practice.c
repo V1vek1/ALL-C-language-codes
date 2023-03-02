@@ -1,5 +1,7 @@
 //*********Addition of a int type number to a pointer********** 
 
+//NOTE :- In c Language %u is only use for to take input in Positive Integers
+
 // #include<stdio.h>
 
 // int main()
@@ -81,7 +83,7 @@
 //     return 0;
 // }
 
-********comparison of two pointer variables***********
+//********comparison of two pointer variables***********
 
 #include<stdio.h>
 
